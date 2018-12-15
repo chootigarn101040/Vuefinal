@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       message: "category",
-      products: [],
+     categories: [],
       pageSize: 10,
       pageIndex: 1,
       fields: [
@@ -43,13 +43,9 @@ export default {
           sortable: true,
           variant: "danger"
         }
-        ,
+        
 
-        {
-          key: "picture",
-          sortable: true,
-         
-        }
+        
       ]
     };
   },
