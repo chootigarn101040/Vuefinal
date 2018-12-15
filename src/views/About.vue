@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <br>
+    <h1>This is Finalexam</h1>
+    <h2>Chootigarn Tanapibalwongsa SE 5930213045 </h2>
   </div>
 </template>
